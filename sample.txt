@@ -1,0 +1,1 @@
+나는 slowfunc가 실행한 readfile(Sample.txt)이야.
